@@ -16,7 +16,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansh-Mandkaria&layout=compact&theme=radical&cache_seconds=86400)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Priyansh-Mandkaria&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=Priyansh-Mandkaria&theme=radical&margin-w=10&no-frame=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
